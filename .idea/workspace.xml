@@ -2,59 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65f9dcad-15ba-40b0-9749-fbf22b81718e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/both_gans_l1/Coldplay_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/both_gans_l1/Coldplay_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/both_gans_l1/Gallant-Episode_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/both_gans_l1/Gallant-Episode_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/both_gans_l1/MichaelJackson_Beatit_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/both_gans_l1/MichaelJackson_Beatit_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/both_gans_l1/RedVelvet_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/both_gans_l1/RedVelvet_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/gans/Coldplay_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/gans/Coldplay_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/gans/Gallant-Episode_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/gans/Gallant-Episode_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/gans/MichaelJackson_Beatit_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/gans/MichaelJackson_Beatit_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/gans/RedVelvet_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/gans/RedVelvet_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/only_l1/Coldplay_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/only_l1/Coldplay_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/only_l1/Gallant-Episode_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/only_l1/Gallant-Episode_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/only_l1/MichaelJackson_Beatit_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/only_l1/MichaelJackson_Beatit_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/only_l1/RedVelvet_generated_accompaniment.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/only_l1/RedVelvet_generated_vocal.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectros/1-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectros/1-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectros/1-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectros/1-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectros/1-e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectros/2-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectros/2-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectros/2-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectros/2-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectros/2-e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/io2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/l1_gan/Coldplay-ParadiseL1GAN.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/l1_gan/Gallant-Episode_L1GAN.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/l1_gan/IU-Palette_L1GAN.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/l1_gan/RedVelvet-L1GAN.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/only_gan/Coldplay-Paradise_onlyGAN.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/only_gan/Gallant-Episode_onlyGAN.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/only_gan/IU-Palette_onlyGAN.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/only_gan/RedVelvet-RedFlavor_onlyGAN.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/only_l1/Coldplay-Paradise_L1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/only_l1/Gallant-Episode_L1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/only_l1/IU-Palette_L1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/only_l1/RedVelvet-RedFlavor_L1.mp3" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="io2.iws" />
@@ -79,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16943522">
-              <caret line="598" column="0" selection-start-line="598" selection-start-column="0" selection-end-line="598" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.16611296">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -273,8 +220,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16943522">
-          <caret line="598" column="0" selection-start-line="598" selection-start-column="0" selection-end-line="598" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.16611296">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
